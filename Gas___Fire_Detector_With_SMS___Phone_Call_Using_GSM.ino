@@ -1,3 +1,7 @@
+/*The source code from
+ * Md. Riyad Hasan
+ * www.github.com/riyadhasan24
+*/
 #include <SoftwareSerial.h>
 SoftwareSerial MY_Serial(8, 9);
 
